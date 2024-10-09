@@ -10,10 +10,11 @@ We have lovely and amazing pets and we will find the best match for you!
 Please take a look in our galery!
 
 - All of our pets are checked continuously by a veterinarian and are fully vaccinated. 
-- every pet is getting a tooth check 1 time a week
-- every pet has a favorit plush toy
-- every pet is getting it's own special food you can buy in our store
-- just a hand of pet will eating your shoes
+- Every pet is getting a tooth check 1 time a week.
+- Every pet has a favorit plush toy.
+- Every pet is getting it's own special food you can buy in our store.
+- The more you buy, the more points you will earn to exchange for rewards in our store.
+- Just a hand of pets will eating your shoes.
 
 - it's a lot of fun trying to bath your pet 3 times a week! 
 

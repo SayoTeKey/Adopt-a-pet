@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    width: 80vw;
+    margin: auto;
+}
+
+.to-top {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
