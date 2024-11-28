@@ -1,20 +1,42 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Voces&display=swap');
+
+
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 :root {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 body {
-    width: 80vw;
-    margin: auto;
+  width: 80vw;
+  margin: auto;
+}
+
+/* Header*/
+.heading {
+  display: flex;
+}
+
+h1 {
+text-align: center;
+font-family: "Atma", system-ui;
+font-weight: 600;
+}
+
+/* Footer */
+footer {
+  background-color: lightgrey;
 }
 
 .to-top {
-    text-decoration: none;
-    display: block;
-    text-align: center;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  background-color: grey;
+  color: white;
 }
